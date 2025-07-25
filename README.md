@@ -1,5 +1,5 @@
-# oui
-Find the manufacturer of a given NIC
+# OUI
+Barebones utility to match a supplied MAC address to a NIC manufacturer using IEEE's Organizationally Unique Identifier (OUI) database.
 
 ## Usage
 ```
